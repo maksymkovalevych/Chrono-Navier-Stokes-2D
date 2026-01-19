@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18297314.svg)](https://doi.org/10.5281/zenodo.18297314)
 # Chrono-Navier-Stokes-2D / Хроно-Навье-Стокса-2D
 
 **Автор:** Максим Ковалевыч (maksymkovalevych)  
